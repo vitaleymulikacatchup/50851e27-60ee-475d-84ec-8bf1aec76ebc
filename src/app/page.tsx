@@ -18,12 +18,6 @@ export default function Home() {
       defaultButtonVariant="text-stagger"
       defaultTextAnimation="entrance-slide"
       borderRadius="soft"
-      contentWidth="normal"
-      sizing="comfortable"
-      background="default"
-      cardStyle="elevated"
-      primaryButtonStyle="filled"
-      secondaryButtonStyle="outline"
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
